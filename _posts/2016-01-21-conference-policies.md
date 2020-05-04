@@ -5,7 +5,7 @@ categories: students
 
 
 **Attending conferences**
-
+does not compute
 As the lab has been growing in size it seems useful to describe the standard conference policies.
 
   > 1. **Attending conferences is an important career investment.** Lab members are highly encouraged to attend 1-2 conferences a year. Significantly more gets to be a drain on time and resources. Significantly less jeopardizes networking which is crucial for academic success.
