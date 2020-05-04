@@ -7,6 +7,8 @@ by Elisabeth Moyer, Dept. of the Geophysical Sciences, University of Chicago, 3/
 
 ### Steps in writing a paper
 
+
+ does not compute
 Below is a standard protocol for paper writing, that should ease the process of getting a
 manuscript ready for submission (or of preparing a proposal). You will check in with
 relevant people in the group at every stage. (It is perfectly reasonable to also present a
