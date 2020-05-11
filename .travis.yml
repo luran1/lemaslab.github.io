@@ -11,11 +11,6 @@ before_script:
  - echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
  - echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
  - source ~/.bashrc
- - gem install jekyll bundler
- - gem install bootstrap-sass
- - gem 'nokogiri'
- - gem 'rack', '~> 2.0.1'
- - gem 'rspec'
- - bundle install
+ - bundle install --jobs=3 --retry=3 --deployment
 script:
  - bundle exec jekyll build
