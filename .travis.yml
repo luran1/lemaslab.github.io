@@ -12,6 +12,7 @@ before_script:
  - echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
  - source ~/.bashrc
  - gem install jekyll bundler
+ - gem install bootstrap-sass
  - source 'https://rubygems.org'
  - gem 'nokogiri'
  - gem 'rack', '~> 2.0.1'
