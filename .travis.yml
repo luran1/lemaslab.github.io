@@ -13,7 +13,6 @@ before_script:
  - source ~/.bashrc
  - gem install jekyll bundler
  - gem install bootstrap-sass
- - source 'https://rubygems.org'
  - gem 'nokogiri'
  - gem 'rack', '~> 2.0.1'
  - gem 'rspec'
