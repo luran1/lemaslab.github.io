@@ -20,7 +20,6 @@ He works closely with the informatics division of the lab which includes the met
 He works with R, Slurm, and CSS code within the lab in a variety of different projects.
 Within the lab he's skills as a programer and researcher have matured and is not coordinating a project under the BEACH study.
 
-
 ### Current Projects
 
 - BEACH study 
